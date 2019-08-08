@@ -42,6 +42,10 @@ body {
     margin-bottom: 30px;
 }
 
+.card__image-thumbnail {
+    background-color: #F7F5EB;
+}
+
 .final_product {
     margin: 100px 0px;
     display: flex;
